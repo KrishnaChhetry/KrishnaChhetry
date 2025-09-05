@@ -1,4 +1,6 @@
-<h3 align="center">A passionate MERN full stack developer. </h3>
+<h3 align="center">A passionate full stack developer. </h3>
+<h1 align="center">Hi, I’m Krishna, a Full-Stack Developer with hands-on experience in building scalable web applications using the MERN stack and Next.js. I’ve developed responsive, user-focused solutions like a job portal, a school management platform, and a YouTube-style video app. My expertise spans from designing intuitive frontends with React.js and Next.js to building secure, optimized backends with Node.js, Express, and MongoDB/MySQL. I also have internship experience at CodSoft and full-stack training at EXPLORIN, where I worked on real-world projects, implemented role-based authentication, and optimized API performance. I’m eager to contribute my skills to impactful projects and collaborate in fast-paced, growth-oriented teams. </h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnachhetry&label=Profile%20views&color=0e75b6&style=flat" alt="krishnachhetry" /> </p>
 
